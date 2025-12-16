@@ -169,3 +169,5 @@ Copyright © 2025 Vocdoni.
 
 [SDK]: https://developer.vocdoni.io/sdk
 [related react packages]: https://github.com/vocdoni/ui-components#vocdonis-ui-components
+
+.
